@@ -146,7 +146,7 @@ Method: Linear Regression
 
 ### Github Repository
 
-# Group IX
+# Group X
 
 ## Members
 
@@ -156,6 +156,10 @@ Method: Linear Regression
 
 ### Topic & Description
 
+Topic : Blood Pressure Classification using Naive Bayes
+
 ### Github Repository
+
+https://github.com/Renaldyvo/Artificial-Intelligence
 
 
